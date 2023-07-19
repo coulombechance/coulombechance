@@ -59,7 +59,7 @@ I am a seasoned senior .NET/C#/Angular developer with extensive experience in bu
 
 Please contact me if you'd like to learn more about my role in this project or discuss how I may help with your web/desktop development needs.
 - Email: coulombechance@gmail.com
-- Address: Chickamauga, GA 30707, USA
+- Address: Chickamauga, GA 30707
 
 ## License
 
