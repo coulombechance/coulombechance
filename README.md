@@ -1,4 +1,4 @@
-# Chance Coulombe's GitHub Profile 
+# Chance Coulombe's GitHub Profile
 
 Welcome to my GitHub profile! Here, you'll find a collection of some of my personal projects and contributions to open-source repositories. Feel free to explore the different projects and check out the code.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of some of my perso
 I'm excited to share my recent accomplishment: the successful development of the Providence Health & Services website (https://www.providence.org).
 
 ### Tech Stack:
-- Angular, C#, ASP.NET, SQL.
+- Angular, C#, ASP.NET, SQL
 
 ### Overview:
 
@@ -33,7 +33,7 @@ The Providence Health & Services website is now a cutting-edge platform that dem
 I am delighted to offer my most recent accomplishment: the successful building of the NOV Payments website. (https://novpayments.phoenix.gov)
 
 ### Tech Stack:
-- ASP.NET, Azure, and Angular.
+- ASP.NET, Azure, and Angular
 
 ### Overview:
 
