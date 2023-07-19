@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of some of my perso
 I'm excited to share my recent accomplishment: the successful development of the Providence Health & Services website (https://www.providence.org).
 
 ### Tech Stack:
-- Angular, C#, ASP.NET, SQL
+- Angular, C#, ASP.NET, and SQL
 
 ### Overview:
 
