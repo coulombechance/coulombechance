@@ -26,6 +26,7 @@ I had the privilege of working on this project as part of a talented team tasked
 
 The Providence Health & Services website is now a cutting-edge platform that demonstrates the organization's dedication to healthcare quality. The website has gotten favorable reviews from both the client and end-users due to increased user engagement, improved site performance, and seamless navigation.
 
+
 ## Project 2: NOV Payments Website Development
 
 ### Description:
