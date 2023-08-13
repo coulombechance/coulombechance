@@ -1,4 +1,4 @@
-# Senior Angular/.NET/C# Software Developer
+# Chance C - Senior Angular/.NET/C# Software Developer
 
 Welcome to my GitHub profile! Here, you'll find a collection of some of my personal projects and contributions to open-source repositories. Feel free to explore the different projects and check out the code.
 
